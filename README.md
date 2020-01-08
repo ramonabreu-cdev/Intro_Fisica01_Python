@@ -1,2 +1,2 @@
-# class_physics01_python
-Este projeto é um mini curso de Física 1 aplicada com python
+# Intro_Fisica01_Python
+Este projeto é um mini curso introdutório de Física 1(Mecânica,Cinemática) aplicada com python
