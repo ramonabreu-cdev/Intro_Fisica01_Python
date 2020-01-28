@@ -13,7 +13,7 @@ d1 = float(vm1 * t1)
     # Em seguida definimos (vm2), de acordo com o problema
 vm2 = float(5) # Em m/s
     # E se o tempo seguinte é : (t2)
-t2 = float(20) #tempo em segundos
+t2 = float(20) #tempo em segundoss
     #Então, se em 1s anda 5m , então em (t2)s vai andar :
 d2 = float( vm2 * t2) 
     #Então (vm) Velocidade Média é :
